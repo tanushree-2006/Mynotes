@@ -54,4 +54,6 @@ Important Notes
 Alternative: Installing Kali directly on Mac (Advanced Users)
 
 * You can dual boot or use ARM images for M1/M2 Macs, but this requires partitioning and is riskier. VirtualBox is safest for class practice.
+# Day-4
+We have learned the basic commands of Kali Linux—such as ls, cd, and pwd—which are essential for navigating directories, viewing file contents, and understanding your current working directory.
 
